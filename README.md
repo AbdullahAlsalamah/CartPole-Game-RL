@@ -7,8 +7,10 @@ An Agent will be train to play the CartPole Game by using Deep-Q-Learning
 
 ### Install and run python virtual environment
 First we will install the virtual environment for python
+
 `pip3 install virtualenv`
 Create Virtual environment
+
 `virtualenv cartPoleEnv`
 Activate the virtual environment
 `source cartPoleEnv/bin/activate`
